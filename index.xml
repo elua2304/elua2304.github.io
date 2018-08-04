@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elua Village #2304</title>
+    <link>/</link>
+    <description>Recent content on Elua Village #2304</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2017 16:40:22 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/rates/</link>
+      <pubDate>Sat, 01 Apr 2017 16:40:22 -0700</pubDate>
+      
+      <guid>/rates/</guid>
+      <description>Nightly rates are approximate and subject to change.
+Please contact us for current pricing.
+   Dates Nightly Rate     09/29/2018 - 11/15/2018 $ 529.00   11/16/2018 - 11/25/2018 $ 529.00   11/26/2018 - 12/13/2018 $ 529.00   12/14/2018 - 01/13/2019 $ 949.00   01/14/2019 - 01/31/2019 $ 825.00   02/01/2019 - 03/02/2019 $ 949.00   03/03/2019 - 04/21/2019 $ 825.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/availability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/availability/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

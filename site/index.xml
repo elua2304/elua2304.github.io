@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elua Village #2304</title>
+    <link>https://www.elua2304.net/</link>
+    <description>Recent content on Elua Village #2304</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2017 16:40:22 -0700</lastBuildDate>
+    
+	<atom:link href="https://www.elua2304.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://www.elua2304.net/rates/</link>
+      <pubDate>Sat, 01 Apr 2017 16:40:22 -0700</pubDate>
+      
+      <guid>https://www.elua2304.net/rates/</guid>
+      <description>Nightly rates are approximate and subject to change.
+Please contact us for current pricing.
+   Dates Nightly Rate     09/29/2017 - 11/16/2017 $ 479.00   11/17/2017 - 11/26/2017 $ 479.00   11/27/2017 - 12/10/2017 $ 479.00   12/11/2017 - 01/14/2018 $ 850.00   01/15/2018 - 01/25/2018 $ 775.00   01/26/2018 - 02/28/2018 $ 850.00   03/01/2018 - 04/15/2018 $ 775.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.elua2304.net/availability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.elua2304.net/availability/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
