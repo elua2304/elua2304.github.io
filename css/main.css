@@ -1719,7 +1719,7 @@
 	}
 
 	header p {
-		color: #b2b2b2;
+		color: #fff470c2;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -2468,7 +2468,7 @@
 	#header {
 		background-color: #1f1815;
 		background-attachment: scroll,								fixed;
-		background-image: url("images/overlay.png"), url("../images/bg.jpg");
+		background-image: url("../images/bg.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								auto 100%;
@@ -3147,7 +3147,7 @@
 
 	#sidebar ul li a,
 	#sidebar ul li a a:visited {
-		color: #a2a2a2;
+		color: #e8e384;
 		text-decoration: none;
 	}
 
