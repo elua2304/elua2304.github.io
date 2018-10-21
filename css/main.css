@@ -1719,7 +1719,7 @@
 	}
 
 	header p {
-		color: #fff470c2;
+		color: #eaf3da;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -2467,11 +2467,11 @@
 
 	#header {
 		background-color: #1f1815;
-		background-attachment: scroll,								fixed;
-		background-image: url("../images/bg.jpg");
-		background-position: top left,							top left;
-		background-repeat: repeat,								no-repeat;
-		background-size: auto,								auto 100%;
+		background-attachment: fixed; 
+		background-image: url("../images/bg5.jpg");
+		background-position: top left;
+		background-repeat: no-repeat;
+		background-size: auto 100%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
